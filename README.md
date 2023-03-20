@@ -43,7 +43,7 @@ Para compartir pantalla,
 
 ![image](https://user-images.githubusercontent.com/45903954/226269541-ebf229da-3980-42d3-bc2a-721a2be2bc2f.png)
 
-Una vez seleccionada la pantalla o ventana a compartir, se habilitará la opción “compartir”. En este caso, a veces es de mucha ayuda tener una segunda pantalla para confirmar que realmente se está viendo lo que se desea. De cualquier forma, Women on estará para poyarte :)
+Una vez seleccionada la pantalla o ventana a compartir, se habilitará la opción “compartir”. En este caso, a veces es de mucha ayuda tener una segunda pantalla para confirmar que realmente se está viendo lo que se desea. De cualquier forma, Women on estará para apoyarte :)
 Si se desea también compartir audio, este es el paso importante para habilitar la opción. 
 
 ![image](https://user-images.githubusercontent.com/45903954/226269571-8962af82-2ade-4ef9-a201-566536ddd4b2.png)
