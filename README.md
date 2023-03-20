@@ -1,4 +1,4 @@
-# StreamyardTutorial
+# StreamYardTutorial
 Este Repositorio describe el funcionamiento de Streamyard para personas invitadas.
 ## Requisitos previos
   + Link de invitación
