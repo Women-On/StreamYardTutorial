@@ -1,5 +1,5 @@
 # StreamYardTutorial
-Este Repositorio describe el funcionamiento de Streamyard para personas invitadas.
+Este repositorio describe el funcionamiento de Streamyard para personas invitadas.
 ## Requisitos previos
   + Link de invitación
   + Computadora o celular
